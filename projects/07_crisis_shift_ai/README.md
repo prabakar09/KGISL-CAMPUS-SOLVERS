@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Physics-Asphalt_Friction_&_Soil_Bearing-00FF66?style=for-the-badge&logo=speedtest&logoColor=white" alt="Physics Engine" />
   <img src="https://img.shields.io/badge/Finance-Production_Burn_&_Pivot_Savings-FFD000?style=for-the-badge&logo=cashapp&logoColor=white" alt="Production Burn" />
   <img src="https://img.shields.io/badge/Tests-16%2F16_Passing-34A853?style=for-the-badge&logo=pytest&logoColor=white" alt="Tests Passing" />
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Commercial_Reservation-FF3366?style=for-the-badge&logo=shield" alt="Commercial License" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Strict_View--Only_&_No--Copy-FF0055?style=for-the-badge&logo=shield" alt="View Only No Copy" /></a>
 </p>
 
 > **Author & Lead Architect:** **Prabakar A** ([@prabakar09](https://github.com/prabakar09))  
@@ -15,10 +15,11 @@
 > **Ecosystem:** Google Student Community @ KiTE  
 
 > [!IMPORTANT]
-> **🚀 STARTUP & COMMERCIAL INTELLECTUAL PROPERTY NOTICE**  
+> **🚀 STRICT VIEW-ONLY & PROPRIETARY STARTUP IP NOTICE**  
 > CrisisShift OS is proprietary startup technology architected by **Prabakar A**.  
-> **Commercial Use Restriction:** Any commercial deployment, production pilot, studio adoption, or closed-source distribution is **STRICTLY PROHIBITED** without explicit written permission and commercial licensing.  
-> 📩 **Permission & Commercial Inquiries:** Contact **Prabakar A** at [`prabakar2699@gmail.com`](mailto:prabakar2699@gmail.com) with subject `[CRISISSHIFT OS] Permission Request`.
+> **1. ABSOLUTE NO-COPYING RULE:** Copying, cloning, scraping, or duplicating the code, prompt logic, or physics math into any other project is **STRICTLY FORBIDDEN**. Code is for academic inspection on GitHub only.  
+> **2. COMMERCIAL DEPLOYMENT RESTRICTION:** Any commercial use, production pilot, studio adoption, or closed-source distribution requires an official signed license.  
+> 📩 **Permission & Commercial Licensing Inquiries:** Contact **Prabakar A** at [`prabakar2699@gmail.com`](mailto:prabakar2699@gmail.com) with subject `[CRISISSHIFT OS] Permission Request`.
 
 ---
 
@@ -121,11 +122,13 @@ Created and architected by **Prabakar A** ([@prabakar09](https://github.com/prab
 
 ---
 
-## 📜 Proprietary Startup License & Permission Inquiries
+## 📜 Strict View-Only & Proprietary Startup License
 Copyright (c) 2026 **Prabakar A**. All Rights Reserved.  
-This software is governed by the **[CRISISSHIFT OS COMMERCIAL RESERVATION & SOURCE-AVAILABLE LICENSE](LICENSE)**.
+This software is governed by the **[CRISISSHIFT OS STRICT VIEW-ONLY & PROPRIETARY STARTUP LICENSE](LICENSE)**.
 
-> **Commercial Use / Production Deployment:**  
-> If you are a film studio, producer, production company, or tech platform wishing to use, pilot, or integrate CrisisShift OS, you **MUST obtain prior written permission** by contacting the founder:  
+> **⚠️ STRICT VIEW-ONLY ENFORCEMENT (NO-COPYING ALLOWED):**  
+> This source code is provided solely for academic review and code inspection on GitHub.  
+> **COPYING IS FORBIDDEN:** You are strictly prohibited from copying, cloning, downloading for retention, extracting, or duplicating any code, physics equations, prompt architecture, or models into any other codebase or repository.  
+> **Commercial Use / Studio Deployment:** If you are a film studio, producer, production company, or enterprise wishing to license, pilot, or use CrisisShift OS, you **MUST obtain prior written permission** by contacting the founder:  
 > 📧 **Email:** [prabakar2699@gmail.com](mailto:prabakar2699@gmail.com)  
-> 💬 **Subject:** `[CRISISSHIFT OS] Commercial License / Permission Request`
+> 💬 **Subject:** `[CRISISSHIFT OS] Formal Permission & Commercial Licensing Request`
