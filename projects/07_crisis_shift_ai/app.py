@@ -1,3 +1,7 @@
+# Copyright (c) 2026 Prabakar A (prabakar2699@gmail.com). All Rights Reserved.
+# CRISISSHIFT OS — PROPRIETARY STARTUP INTELLECTUAL PROPERTY
+# Commercial use requires prior written license: prabakar2699@gmail.com
+
 import streamlit as st
 
 # Import 3-Tier Architecture Modules

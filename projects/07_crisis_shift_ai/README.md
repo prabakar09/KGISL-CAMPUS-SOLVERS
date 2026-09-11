@@ -6,12 +6,19 @@
   <img src="https://img.shields.io/badge/Physics-Asphalt_Friction_&_Soil_Bearing-00FF66?style=for-the-badge&logo=speedtest&logoColor=white" alt="Physics Engine" />
   <img src="https://img.shields.io/badge/Finance-Production_Burn_&_Pivot_Savings-FFD000?style=for-the-badge&logo=cashapp&logoColor=white" alt="Production Burn" />
   <img src="https://img.shields.io/badge/Tests-16%2F16_Passing-34A853?style=for-the-badge&logo=pytest&logoColor=white" alt="Tests Passing" />
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Commercial_Reservation-FF3366?style=for-the-badge&logo=shield" alt="Commercial License" /></a>
 </p>
 
 > **Author & Lead Architect:** **Prabakar A** ([@prabakar09](https://github.com/prabakar09))  
 > **Department:** Artificial Intelligence & Data Science (AI & DS)  
 > **Campus:** KGiSL Institute of Technology (KiTE), Autonomous, Coimbatore  
-> **Ecosystem:** Google Student Community @ KiTE
+> **Ecosystem:** Google Student Community @ KiTE  
+
+> [!IMPORTANT]
+> **🚀 STARTUP & COMMERCIAL INTELLECTUAL PROPERTY NOTICE**  
+> CrisisShift OS is proprietary startup technology architected by **Prabakar A**.  
+> **Commercial Use Restriction:** Any commercial deployment, production pilot, studio adoption, or closed-source distribution is **STRICTLY PROHIBITED** without explicit written permission and commercial licensing.  
+> 📩 **Permission & Commercial Inquiries:** Contact **Prabakar A** at [`prabakar2699@gmail.com`](mailto:prabakar2699@gmail.com) with subject `[CRISISSHIFT OS] Permission Request`.
 
 ---
 
@@ -110,4 +117,15 @@ pytest projects/07_crisis_shift_ai/tests/ -v
 ---
 
 ## 🏛️ Author & Copyright Notice
-Created and architected by **Prabakar A** ([@prabakar09](https://github.com/prabakar09)), Artificial Intelligence & Data Science (AI & DS), KGiSL Institute of Technology (KiTE). Part of the **KGISL-CAMPUS-SOLVERS** open-source engineering initiative.
+Created and architected by **Prabakar A** ([@prabakar09](https://github.com/prabakar09)), Artificial Intelligence & Data Science (AI & DS), KGiSL Institute of Technology (KiTE). Part of the **KGISL-CAMPUS-SOLVERS** engineering initiative.
+
+---
+
+## 📜 Proprietary Startup License & Permission Inquiries
+Copyright (c) 2026 **Prabakar A**. All Rights Reserved.  
+This software is governed by the **[CRISISSHIFT OS COMMERCIAL RESERVATION & SOURCE-AVAILABLE LICENSE](LICENSE)**.
+
+> **Commercial Use / Production Deployment:**  
+> If you are a film studio, producer, production company, or tech platform wishing to use, pilot, or integrate CrisisShift OS, you **MUST obtain prior written permission** by contacting the founder:  
+> 📧 **Email:** [prabakar2699@gmail.com](mailto:prabakar2699@gmail.com)  
+> 💬 **Subject:** `[CRISISSHIFT OS] Commercial License / Permission Request`
