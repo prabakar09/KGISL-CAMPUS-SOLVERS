@@ -23,7 +23,7 @@
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.10+" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-green.svg?style=for-the-badge&logo=apache" alt="License" /></a>
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge&logo=git&logoColor=white" alt="PRs Welcome" /></a>
-  <a href="projects"><img src="https://img.shields.io/badge/Test_Suite-Passing_(8%2F8_Tests)-34A853?style=for-the-badge&logo=pytest&logoColor=white" alt="Test Suite Passing" /></a>
+  <a href="projects"><img src="https://img.shields.io/badge/Test_Suite-Passing_(16%2F16_Tests)-34A853?style=for-the-badge&logo=pytest&logoColor=white" alt="Test Suite Passing" /></a>
   <a href="https://github.com/nandhakumar-murugan/KGISL-CAMPUS-SOLVERS/discussions"><img src="https://img.shields.io/badge/Discussions-Join_Community-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Discussions" /></a>
   <a href="https://github.com/nandhakumar-murugan/KGISL-CAMPUS-SOLVERS/stargazers"><img src="https://img.shields.io/github/stars/nandhakumar-murugan/KGISL-CAMPUS-SOLVERS?style=for-the-badge&logo=github&color=gold" alt="Stars" /></a>
   <a href="https://github.com/nandhakumar-murugan/KGISL-CAMPUS-SOLVERS"><img src="https://komarev.com/ghpvc/?username=kgisl-campus-solvers&label=Visitors+Count&color=0e7fc0&style=for-the-badge" alt="Visitors Count" /></a>
@@ -72,6 +72,7 @@ The Google Student Community at KiTE represents an active, student-driven develo
 | **[projects/04_academic_writing_assistant/](projects/04_academic_writing_assistant/)** | **Academic Writing & Research** | Offline-friendly sentence analysis with optional Gemini explanations for research publications, lab reports, and technical documentation. | 🟢 Shipped |
 | **[projects/05_campus_smart_print_hub/](projects/05_campus_smart_print_hub/)** | **Campus Resource & Hardware Logistics** | Digital pre-print queue and token generator for central campus print facilities (KITE, KGCAS, IIM) eliminating lunch-hour bottlenecks. | 🚀 In Progress (Bala + Prabakar) |
 | **[projects/06_campus_notice_copilot_extension/](projects/06_campus_notice_copilot_extension/)** | **Student Life & Real-Time Communication** | Production Chrome extension auto-extracting circulars, exam dates, deadlines, and homework from WhatsApp Web with 1-click Google Calendar sync. | 🟢 Shipped |
+| **[projects/07_crisis_shift_ai/](projects/07_crisis_shift_ai/)** | **Cinema Production & Crisis Logistics** | Autonomous Gemini 2.5 Flash multi-agent command OS (Scout, Physics, Director, Dispatcher) with live satellite radar, road friction calculations (μ), production burn rate modeling, and 1-click WhatsApp crew emergency call sheet dispatches. | 🟢 Shipped (Prabakar A) |
 
 ---
 
